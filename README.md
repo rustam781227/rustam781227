@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rustam781227
+- 👋 Hi, I’m Rustam
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning python
 - 📫 How to reach me tg:@iSchway
